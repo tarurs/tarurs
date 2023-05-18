@@ -22,7 +22,7 @@
 ```
 
 ## getContacts()
-<p><img src="https://www.shareicon.net/data/2015/09/18/103119_telegram_512x512.png" alt="foo" title="title" style="width: 32px"/><a href="https://t.me/sergey_gaevskiy"> Telegram</a></p>
+<p><img src="https://www.shareicon.net/data/2015/09/18/103119_telegram_512x512.png" alt="foo" title="title" style="width: 32px"/><a href="https://t.me/srggsk"> Telegram</a></p>
 <p><img src="https://thumbs.dreamstime.com/b/linkedin-icon-filled-website-design-mobile-app-development-social-collection-isolated-black-background-155363702.jpg" alt="foo" title="title" style="width: 32px"/><a href="https://www.linkedin.com/in/serhiy-gaevskiy-8708b515a/"> LinkedIn</a></p>
 
 ---
